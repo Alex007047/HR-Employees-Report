@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/54c4b910-cda4-4f79-be4b-a60a72e6da23)
+
 # HR-Employees-Report
 A comprehensive analysis of employee data to uncover insights and support HR decision-making.
 
